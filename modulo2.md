@@ -8,5 +8,5 @@
 
 ![image](https://user-images.githubusercontent.com/91204696/211855422-38219c72-c643-47d1-8b9c-bb135ad10244.png)
 
-En esta imagen por ejemplo no haría falta instalar los servidores de ***dev***, ***QA***, ***UAT*** o ***Proud***. 
-Ya que ansible se conecta por ***SSH***, es decir, solo hace falta configurar ansible.
+En esta imagen, por ejemplo, no haría falta instalar los servidores de ***dev***, ***QA***, ***UAT*** o ***Proud***. 
+Ya que ansible se conecta por ***SSH***, es decir, solo hace falta configurar ansible,lo que es una gran ventaja para cuando tengamos muchos servidores.
