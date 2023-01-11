@@ -1,2 +1,2 @@
-# DESPLEGAR SERVICIOS EN ANSIBLE
+# Configurar un playbook en Ansible
 
