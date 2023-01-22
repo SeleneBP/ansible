@@ -6,7 +6,9 @@ La primera es donde estará la instalación de ***Ansible***, tiene que tener sa
 ![image](https://user-images.githubusercontent.com/91204696/213875018-18755b79-afe0-4317-9e20-93c50a9f8325.png)
 
 La segunda máquina, es donde desplegaremos la aplicaciones de la máquina ***Ansible***.
-(falta poner imagen ip)
+
+![image](https://user-images.githubusercontent.com/91204696/213911612-65081978-2a14-4d7f-95d3-b78c53c8cbf2.png)
+
 _____________________________________________________________________________________________
 
 En nuestra máquina principal, añadiremos los repositorios de ***Ansible***. 
