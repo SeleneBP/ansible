@@ -15,6 +15,6 @@ En nuestra máquina principal, añadiremos los repositorios de ansible.
 
 ![image](https://user-images.githubusercontent.com/91204696/213875265-81da6860-6a87-4bc1-92d1-4dde5c5ae61b.png)
 
-Actualizaremos el sistema.
+Actualizaremos el sistema, para que los paquetes se actualicen.
 
 ![image](https://user-images.githubusercontent.com/91204696/213875383-d8e6e68d-b49d-4684-b72a-cd4e251fa0fa.png)
