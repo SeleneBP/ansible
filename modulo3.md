@@ -1,15 +1,15 @@
 # Instalación de Ansible
 
 Lo primero que necesitaremos son dos máquinas virtuales. 
-La primera es donde estará la instalación de ***Ansible***, tiene que tener salida a internet porque necesitaremos descargarnos el paquete.
+La primera es donde estará la instalación de ***Ansible***, tiene que tener salida a Internet porque necesitaremos descargarnos el paquete.
 
 ![image](https://user-images.githubusercontent.com/91204696/213875018-18755b79-afe0-4317-9e20-93c50a9f8325.png)
 
-La segunda máquina, es donde desplegaremos la aplicaciones de la máquina ***Ansible***.
+La segunda máquina, es donde desplegaremos las aplicaciones de la máquina ***Ansible***.
 
 ![image](https://user-images.githubusercontent.com/91204696/213911612-65081978-2a14-4d7f-95d3-b78c53c8cbf2.png)
 
-_____________________________________________________________________________________________
+___________________________________________________________________________________________
 
 En nuestra máquina principal, añadiremos los repositorios de ***Ansible***. 
 
