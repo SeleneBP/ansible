@@ -34,8 +34,7 @@ Vamos a comprobar que podemos acceder al nodo, sin que nos pida la contraseña.
 Ya podemos acceder sin clave, así que ya podemos configurar nuestro ***playbook***.
 _________________________________________________________________________________________
 
-Creamos un fichero *yaml*, dentro del directorio que hemos creado para el ***playbook***. Aquí meteremos el host sobre el que queremos desplegar el ***playbook*** y el usuario que queremos que utilice, también configuramos los *task*, que son las tareas, comandos o módulos que se ejecutan dentro del ***playbook***, siempre se ejecutan en orden, si alguno de los nodos falla, el nodo se eliminaría.
+Creamos un fichero *yaml*, dentro del directorio que hemos creado para el ***playbook***. Aquí meteremos el host sobre el que queremos desplegar el ***playbook*** y el usuario que queremos que utilice, también configuramos los *task*, que son las tareas, comandos o módulos que se ejecutan dentro del ***playbook***, siempre se ejecutan en orden, si alguno de los nodos falla, el nodo se eliminaría. Esto solo se ejecutaría si tuviese algo que hacer.
 
 ![image](https://user-images.githubusercontent.com/91204696/213913568-4d585726-a534-40d6-92f3-dbca328d2528.png)
-
 
