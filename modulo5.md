@@ -6,7 +6,7 @@ Para desplegar el ***playbook*** de ***Ansible***:
 
 ![image](https://user-images.githubusercontent.com/91204696/214068290-ca315832-96d0-4f8f-965e-991e36f545fc.png)
 
-Ahora nos vamos a la máquina cliente y vemos que efectivamente se ha instalado *nginx*.
+Ahora nos vamos a la máquina cliente y efectivamente se ha instalado *nginx*.
 
 ![image](https://user-images.githubusercontent.com/91204696/214074362-e2800d49-a4d0-4a8f-946b-7163acc09024.png)
 
@@ -14,7 +14,7 @@ Para hacer la comprobación, podemos hacerla a través del navegador, tanto de l
 
 Vemos que se muestra correctamente el mensaje de bienvenida de *nginx*.
 
-![image](https://user-images.githubusercontent.com/91204696/214075116-579dc68c-8ca5-4d01-81c0-c30cd6b85b93.png)
+![image](https://user-images.githubusercontent.com/91204696/214077830-0ba5364c-1679-4a19-902e-c0aed186468d.png)
 
 También podemos hacer la comprobación con el comando `curl IP`.
 
