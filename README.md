@@ -1,4 +1,4 @@
-# DESPLEGAR SERVICIOS EN ANSIBLE
+# ANSIBLE
 ## ÍNDICE
 
 - [¿Por qué automatizar los despliegues de servicios?](https://github.com/SeleneBP/ansible/blob/main/modulo1.md)
